@@ -12,6 +12,8 @@
 
     </style>
     <div id="content">
+        <div>
 
+        </div>
     </div>
 @stop
