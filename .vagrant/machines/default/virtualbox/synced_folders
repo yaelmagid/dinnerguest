@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/dinnerguest":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/dinnerguest","hostpath":"/Users/JNC/Desktop/dinnerguest","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/JNC/Desktop/dinnerguest","disabled":false}}}
